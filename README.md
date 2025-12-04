@@ -1,6 +1,6 @@
 # Terms of Service / Kullanım Koşulları
 
-**Last Updated / Son Güncelleme: December 4, 2024**
+**Last Updated / Son Güncelleme: December 4, 2025**
 
 ---
 
@@ -261,20 +261,7 @@ We may update these Terms of Service from time to time. Continued use of the app
 
 ---
 
-## Summary of Key Points / Önemli Noktaların Özeti
-
-| Topic | Summary |
-|-------|---------|
-| **Age Requirement** | 13 years or older |
-| **Content Ownership** | You own your content |
-| **Prohibited Content** | Illegal, harmful, copyright-infringing |
-| **Subscription** | Auto-renews, cancel anytime |
-| **Refunds** | Through app store |
-| **Termination** | For violations or inactivity |
-
----
-
-**Effective Date / Yürürlük Tarihi**: December 4, 2024
+**Effective Date / Yürürlük Tarihi**: December 4, 2025
 **Version / Versiyon**: 1.0
 
-© 2024 Digital Diary. All rights reserved.
+© 2025 Digital Diary. All rights reserved.
