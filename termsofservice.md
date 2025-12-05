@@ -8,11 +8,11 @@
 
 ### 1. Hizmet Şartlarının Kabulü
 
-Digital Diary uygulamasını ("Uygulama", "Hizmet") kullanarak, bu Kullanım Koşulları'nı kabul etmiş olursunuz. Bu koşulları kabul etmiyorsanız, uygulamayı kullanmayınız.
+One Minute Digital Diary uygulamasını ("Uygulama", "Hizmet") kullanarak, bu Kullanım Koşulları'nı kabul etmiş olursunuz. Bu koşulları kabul etmiyorsanız, uygulamayı kullanmayınız.
 
 ### 2. Hizmet Açıklaması
 
-Digital Diary, kullanıcıların video formatında kişisel günlük tutmalarına olanak tanıyan bir mobil uygulamadır. Hizmetlerimiz şunları içerir:
+One Minute Digital Diary, kullanıcıların video formatında kişisel günlük tutmalarına olanak tanıyan bir mobil uygulamadır. Hizmetlerimiz şunları içerir:
 - Video günlüğü kaydetme ve saklama
 - Özel (private) ve herkese açık (public) video paylaşımı
 - Takvim tabanlı günlük organizasyonu
@@ -125,11 +125,11 @@ Sorularınız için:
 
 ### 1. Acceptance of Terms
 
-By using the Digital Diary application ("App", "Service"), you agree to these Terms of Service. If you do not accept these terms, do not use the application.
+By using the One Minute Digital Diary application ("App", "Service"), you agree to these Terms of Service. If you do not accept these terms, do not use the application.
 
 ### 2. Service Description
 
-Digital Diary is a mobile application that allows users to keep personal diaries in video format. Our services include:
+One Minute Digital Diary is a mobile application that allows users to keep personal diaries in video format. Our services include:
 - Recording and storing video diaries
 - Private and public video sharing
 - Calendar-based diary organization
@@ -263,4 +263,4 @@ We may update these Terms of Service from time to time. Continued use of the app
 **Effective Date / Yürürlük Tarihi**: December 5, 2025
 **Version / Versiyon**: 1.0
 
-© 2025 Digital Diary. All rights reserved.
+© 2025 One Minute Digital Diary. All rights reserved.
